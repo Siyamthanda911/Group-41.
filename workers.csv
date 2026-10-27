@@ -1,0 +1,6 @@
+Worker ID,Department,Job Role,Shift,PPE Compliance,Safety Training Status,Fatigue Level,Safety Observations,Near Misses,Previous Incidents,Risk Level
+W001,Mining,Drill Operator,Day,Yes,Complete,Low,2,0,0,Low
+W002,Mining,LHD Operator,Night,No,Complete,High,5,2,1,High
+W003,Maintenance,Fitter,Day,Yes,Incomplete,Medium,3,1,0,Medium
+W004,Processing,Plant Operator,Night,Yes,Complete,High,4,1,1,High
+W005,Safety,Safety Representative,Day,Yes,Complete,Low,1,0,0,Low

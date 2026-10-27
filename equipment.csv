@@ -1,0 +1,6 @@
+Equipment ID,Equipment Type,Manufacturer,Operating Hours,Temperature,Vibration,Fuel Consumption,Brake Status,Tyre Status,Engine Status,Maintenance Status,Downtime,Availability
+TRK-001,Haul Truck,CAT,4200,76,4.2,43,Good,Good,Normal,Available,10,95
+TRK-012,Haul Truck,CAT,6800,104,9.2,48,Good,Worn,Warning,Due,36,78
+LHD-003,Loader,Sandvik,5100,88,6.4,31,Good,Good,Normal,Available,20,88
+DRL-004,Drill,Epiroc,7350,97,8.6,29,Warning,Good,Warning,Overdue,42,72
+CONV-01,Conveyor,OEM,9100,69,3.8,18,Good,N/A,Normal,Under Maintenance,55,65

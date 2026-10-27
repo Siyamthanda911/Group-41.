@@ -1,0 +1,6 @@
+Equipment ID,Last Maintenance,Next Maintenance,Maintenance Status,Downtime,Repeated Alerts
+TRK-001,2026-07-20,2026-09-20,Completed,10,1
+TRK-012,2026-06-15,2026-09-01,Due,36,3
+LHD-003,2026-08-01,2026-10-01,Completed,20,0
+DRL-004,2026-05-20,2026-08-20,Overdue,42,4
+CONV-01,2026-09-02,2026-09-15,Under Maintenance,55,2

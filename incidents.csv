@@ -1,0 +1,5 @@
+Incident ID,Date,Time,Shift,Location,Department,Incident Type,Severity,Injury Status,Lost-time Injury,Cause,Corrective Action,Incident Status
+INC001,2026-08-01,08:15,Day,Pit,Mining,Near Miss,Medium,No,No,Poor visibility,Improve lighting,Closed
+INC002,2026-08-04,22:30,Night,Workshop,Maintenance,Hand Injury,High,Yes,Yes,Improper tool use,Refresher training,Open
+INC003,2026-08-08,14:20,Day,Plant,Processing,Slip/Fall,Low,No,No,Spillage,Improve housekeeping,Closed
+INC004,2026-08-12,01:10,Night,Ramp,Mining,Vehicle Interaction,Critical,No,No,Fatigue,Fatigue management,Under Investigation
